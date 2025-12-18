@@ -1,0 +1,7 @@
+lead_id,call_duration,campaign_source,calls_last_7_days,hour_of_day,converted
+1,120,google,2,10,1
+2,30,facebook,1,15,0
+3,300,google,4,20,1
+4,45,organic,1,11,0
+5,200,facebook,3,18,1
+
